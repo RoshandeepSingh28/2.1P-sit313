@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+}
+.signup-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    background-color: #e0e0e0;
+    width: 100%;
+}
+.signup-text {
+    font-weight: bold;
+    margin-right: 10px;
+}
+.signup-input {
+    padding: 5px;
+    border: 1px solid #000;
+    border-radius: 3px;
+}
+.signup-button {
+    padding: 5px 10px;
+    margin-left: 10px;
+    background-color: #c0c0c0;
+    border: 1px solid #000;
+    cursor: pointer;
+}
